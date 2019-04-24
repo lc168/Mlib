@@ -32,4 +32,11 @@
 ### 解决方式:产生一个 env_bash文件来 在系统中 source
 ### 设置一个路径作为你的库的路径，可以进行管理和共享
 
-
+>###### liucheng
+>> ###### liucheng
+>>```c
+>>int main()
+>>{
+>>  printf("liucheng !\n");
+>>}
+>>```
